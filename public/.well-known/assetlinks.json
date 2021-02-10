@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "app.netlify.upbeat_rosalind_3ddac5.twa",
+                   "sha256_cert_fingerprints": ["B3:4F:F9:09:80:B5:C9:9E:ED:02:46:FA:86:95:C1:9C:38:CA:F8:7F:91:B3:4B:A3:54:57:2A:8B:3E:BC:96:4B"] }
+    }]
